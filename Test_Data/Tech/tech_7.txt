@@ -1,0 +1,55 @@
+TOKYO (Reuters) - A two-armed robot in a Japanese factory carefully stacks rice balls in a box, which a worker carries off for shipment to convenience stores. At another food-packaging plant, a robot shakes pepper and powdered cheese over pasta that a person has just arranged in a container.
+
+Kawasaki Heavy Industries' collaborative robot stacks rice balls at Delicious Cook &Co's food factory in Narashino, Japan, April 17, 2018. REUTERS/Toru Hanai
+
+In a country known for bringing large-scale industrial robots to the factory floor, such relatively dainty machines have until recently been dismissed as niche and low-margin.
+
+But as workforces age in Japan and elsewhere, collaborative robots - or “cobots” - are seen as a key way to help keep all types of assembly lines moving without replacing humans.
+
+Japan’s Fanuc and Yaskawa Electric, two of the world’s largest robot manufacturers, didn’t see the shift coming. Now they are trying to catch up.
+
+“We didn’t expect large manufacturers would want to use such robots, because those robots can lift only a light weight and have limited capabilities,” said Kazuo Hariki, an executive director at Fanuc.
+
+Although still a small portion of a $40 billion industrial robot market, the cobots segment is set to grow over the next decade to more than $10 billion, by some estimates - several dozen times its current size.
+
+The concept of a robot co-worker is relatively new. Danish company Universal Robots, founded in 2005, introduced cobots for industrial applications in late 2008, closely working with major German automakers such as Volkswagen (VOWG_p.DE).
+
+At first, “a lot of people misunderstood what the cobot is,” said Universal Robots’ chief executive, Juergen von Hollen. But the machines quickly became popular in Europe because of their safety, simplicity and ability to directly assist human workers, he said.
+
+Supported by Berlin’s “Industrie 4.0” strategy to promote smart factories, the likes of Kuka and Robert Bosch followed Universal Robots into the market in the early 2010s.
+
+Slideshow (5 Images)
+
+Relatively inexpensive and easy to operate, cobots are now used by companies of all sizes for small-batch manufacturing and simple processes.
+
+In Japan, food maker Nippon Flour Mills uses a cobot made by Kawasaki Heavy Industries for seasoning packaged food sold at convenience stores.
+
+“Labor costs are rising, with more intense competition to hire workers,” said Atsushi Honda, technology team manager at Nippon Flour’s plant engineering group.
+
+Automating some tasks with machines that didn’t need to be separated from human employees helped the company solve that labor issue, he said.
+
+A SLOW START
+
+Industry analysts say Japanese robot makers, in addition to underestimating the appeal of cobots, were held back in their home market by government safety regulations.
+
+Heavy industrial robots had to be fenced off from human contact. Robots that worked in closer proximity to people were limited in how powerful they could be.
+
+The restrictions on cobots were relaxed in late 2013 to match international standards. Japanese robotmakers remained cautious at first, but are now trying to dash into the market.
+
+Fanuc in February bought Life Robotics Inc, whose clients include Toyota Motor Corp and Omron Corp, for an undisclosed amount. It was the first acquisition in 15 years for Fanuc, known among investors for its huge cash pile. Rival Yaskawa Electric released its first cobot last year.
+
+Both, however, lag far behind Universal Robots, which still has roughly 60 percent of the global market and is now owned by Teradyne, according to analysis firm BIS Research. Fanuc has 6 to 10 percent market share, and Yaskawa’s share is even smaller.
+
+Yaskawa’s head of robotics, Masahiro Ogawa, said he was confident the company could grow as customers looked for more sophisticated models.
+
+“As users get used to handling cobots, they will have more advanced and diverse demands. We have the capacity to better meet such demands,” Ogawa said.
+
+Mitsubishi Electric Corp plans to launch a cobot early next year aimed at users such as electronics makers and logistics companies, said Katsutoshi Urabe, senior manager in charge of the company’s robot sales.
+
+Kawasaki Heavy, another engineering giant that entered the market in 2015, tied up with Swiss rival ABB last year. The two companies plan to standardize cobot programming, said Tomonori Sanada, who is in charge of Kawasaki’s robot marketing and sales planning.
+
+But Universal Robots’ von Hollen was unfazed by the interest of such heavyweights, saying the market would grow to accommodate new competitors.
+
+His company, which reported a 72 percent jump in revenue to $170 million last year, expects to grow at least 50 percent in 2018.
+
+“Probably only 10 percent of our target market really knows about collaborative robots,” he said. “So there is 90 percent potential that is gone untapped.”

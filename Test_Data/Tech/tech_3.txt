@@ -1,0 +1,37 @@
+(Reuters) - Consumer activists and technology experts are advising consumers to hold off on buying Android handsets from China’s ZTE until the company clarifies whether U.S. sanctions against the company prevent it from providing operating system updates for its devices.
+
+A ZTE smart phone is pictured in this illustration taken April 17, 2018. REUTERS/Carlo Allegri/Illustration
+
+The U.S. Commerce Department on Monday banned U.S. companies from providing components, software and other technology to ZTE, saying it was punishing the company for violating the terms of a settlement agreement.
+
+ZTE Corp (0763.HK) (000063.SZ) responded by suspending trading of its shares on Chinese stock markets and delaying an earnings release. But it has provided no guidance to consumers on how the ban will affect its ability to provide updates to the Android operating system from Alphabet Inc’s (GOOGL.O) Google unit.
+
+Sources with two mobile carriers told Reuters on Wednesday that ZTE had yet to advise them as to whether it will be able to keep delivering such updates, which patch security vulnerabilities, add new functionality and improve battery life.
+
+ZTE did not respond to requests for comment and Google declined comment when asked if the order means it can no longer provide Android updates.
+
+Jamie Court, president of Los Angeles-based advocacy group Consumer Watchdog, called on ZTE, Google and carriers to tell consumers how the ban will impact their ability to service the Chinese company’s phones.
+
+“They certainly shouldn’t be selling new phones if they aren’t sure they can update them,” Court said.
+
+ZTE phones were available for sale on Thursday through websites of major U.S. carriers and retailers including AT&T Inc (T.N), Sprint Corp (S.N), Verizon Communications Inc (VZ.N), Best Buy Co Inc (BBY.N) and Walmart Inc (WMT.N).
+
+Verizon and Sprint declined to comment. AT&T, Best Buy and Walmart did not respond to requests for comment.Some technology analysts advised consumers not to buy the phones until it is clear whether they can be updated.
+
+“Sufficient uncertainty exists that it would not be prudent to buy a ZTE phone,” said John Jackson, a consumer technology analyst with market research firm IDC.
+
+Roger Entner, an analyst with Recon Analytics, said he expects U.S. carriers and retailers will sell out current ZTE inventories, then stop selling the Chinese company’s handsets.
+
+ZTE smartphones should still function if they do not get future Android updates, but users will not be able add new features or install patches to protect the devices against newly discovered security threats, according to Entner.
+
+“People are stuck,” Entner said.
+
+Some frustrated customers turned to support forums on Reddit and ZTE’s website with questions on warranties, repairs and future security patches that went unanswered.
+
+“I wonder how long we will have to wait to get an actual statement from ZTE,” one user wrote Monday on ZTE’s website.
+
+“I doubt at this stage they are going to find anyway through this ban.”
+
+Canadian privacy advocate Michael Geist said that ZTE and the U.S. government should figure out a way to tweak the order so that it does not undermine the security of millions of people using the company’s phones by preventing them from accessing security updates.
+
+“It’s consumers who will ultimately pay the price if their phones are vulnerable,” Geist said.

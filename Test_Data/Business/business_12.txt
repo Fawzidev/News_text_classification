@@ -1,0 +1,95 @@
+Image copyright HackerOne Image caption James Kettle took up hacking because he was bored with his degree
+
+The term hacker is often used pejoratively, but the ability to spot weaknesses in companies' software and cyber-security systems is in high demand. Ethical hackers are now earning big bucks and the industry is growing.
+
+James Kettle is a bug hunter - not of the insect kind, but of software.
+
+He scans through pages of code looking for mistakes - weaknesses that criminals could exploit to break into a company's network and steal data.
+
+His computer science degree was a little slow-paced for his tastes so he looked around for something else to do and came across "bug bounty" programmes run by Google and browser maker Mozilla.
+
+These are schemes that pay cash to hackers for spotting mistakes, or bugs, in companies' software.
+
+"They really made you work hard for each one and it took about 50 hours per valid bug I found," he recalls.
+
+The payoff, apart from the cash, was that he was struck by an insatiable desire to keep finding flaws in code. And this eventually turned into a lucrative career.
+
+And he's very good at his job.
+
+Image copyright Getty Images
+
+What you need to find bugs
+
+Insatiable curiosity
+
+Solid technical expertise in web and networking technologies
+
+Patience and dedication
+
+Puzzle-solving abilities
+
+He's now one of the top-earning bug finders on HackerOne, a service that matches hackers with companies and governments looking for experts to test their software.
+
+These elite ethical or "white hat" hackers can earn more than $350,000 (£250,000) a year. Bug bounty programmes award hackers an average of $50,000 a month, with some paying out $1,000,000 a year in total, say industry insiders.
+
+Finding a bug that has never been found before is very rare and can lead to significant payouts, perhaps in the hundreds of thousands.
+
+Mr Kettle works for software company PortSwigger, which makes the Burp Suite tool that many hackers use to probe websites to see if they are ripe for exploitation.
+
+Image copyright scanrail Image caption If you are familiar with the innards of websites you could make a bug bounty hunter
+
+"I find new ways of hacking into websites and automating that, and I use bug bounties to prove my new techniques work," Mr Kettle tells the BBC.
+
+"It's fun and challenging."
+
+Most software contains mistakes because it's been written by fallible humans, and criminals are constantly scanning code for these vulnerabilities, often using automated tools.
+
+So it's a race to find these weaknesses before the bad guys, or "black hat" hackers, do.
+
+The problem is that until recently few firms have had enough eyes to throw at the problem. So they've been crowdsourcing expert help from firms such as HackerOne, Bugcrowd and Synack.
+
+These act like agents for vetted ethical hackers, managing the bug bounty programmes, verifying the work done, and ensuring confidentiality for their clients.
+
+Image copyright HackerOne Image caption Laurie Mercer's firm HackerOne has paid out £18.5m in bug bounties so far
+
+HackerOne, the largest of the three best-known bug bounty firms, has more than 120,000 hackers on its books and has paid out more than $26m (£18.5m) so far, says Laurie Mercer, a senior engineer at the firm.
+
+"Bug bounty programmes offer a way for organisations to 'outsource' application security testing, but it comes at a cost," says Bob Egner, vice-president at security firm Outpost24.
+
+"You have to pay a crowdsource bug bounty vendor to introduce your application to their independent researchers, manage the programme for you, and ultimately pay for any bounties required."
+
+But the risk of not doing enough to find these vulnerabilities is a potential hack attack resulting in stolen data, financial loss and damaged reputation. According to a recent report by security firm Nuix, 71% of black hat hackers say they can breach the perimeter of a target within 10 hours.
+
+Image copyright TJ STEGE Image caption Frans Rosen's skills are in demand from the military as well as business
+
+Swedish bug hunter Frans Rosen is using his bounty income to fund tech start-ups.
+
+"We use the bug bounty money as the seeding investment," he says. "It's a fun way to use the money."
+
+The cash enables the start-ups get established and do some development of their products or apps, he says. As a former web developer, he knows what can go wrong when websites are being set up and run.
+
+"After that we help them get the scale investment to fund them properly," he says.
+
+Not all hackers who find bugs work for an established security firm, however, so being represented by a company such as HackerOne or Bug Crowd gives them credibility when they want to alert companies to security vulnerabilities.
+
+Security tester Robbie Wiggins says telling a firm that its website or apps can be hacked is always tricky.
+
+More Technology of Business
+
+Image copyright Getty Images
+
+Often there is no formal reporting structure, he says, apart from a generic admin email address. Bug bounty firms help get the error reports in front of the right people.
+
+But the rapid growth in bug bounty programmes and the significant cash rewards has made it a crowded field, he says.
+
+"It's constantly changing and finding bugs is getting harder."
+
+So he specialises in finding firms that have made mistakes with their Amazon cloud storage accounts. So far, he's found more than 5,000 that look like they are wrongly open to the public.
+
+"Bug bounty hunting is now a hobby and helps every now and again when I need some extra cash for the kids," he says.
+
+Another advantage of such programmes is that they can keep hackers away from the dark side.
+
+"Bug bounty programmes provide a legal alternative for tech-savvy individuals who might otherwise be inclined to the nefarious activities of actually hacking a system and selling its data illegally," says Terry Ray, chief technology officer for data security firm Imperva.
+
+Perhaps it's time more hackers came in from the cold?

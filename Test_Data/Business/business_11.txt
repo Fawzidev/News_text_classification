@@ -1,0 +1,85 @@
+Image copyright Getty Images Image caption Synthetic technology could help medicine become much more targeted
+
+With advances in stem cell research and nanotechnology helping us fight illnesses from heart disease to superbugs, is the fusion of biology and technology speeding us towards a sci-fi future - part human, part synthetic?
+
+In Ridley Scott's seminal blockbuster Blade Runner, humanity has harnessed bio-engineering to create a race of replicants that look, act and sound human - but are made entirely from synthetic material.
+
+We may be far from realising that sci-fi future, but synthetics are beginning to have a profound effect on medicine.
+
+At their state-of-the-art laboratories in Hong Kong, scientists from Canadian company Novoheart are using stem cells to create bio-artificial hearts the company calls "hearts in a jar".
+
+From just 2.5ml of your blood, Professor Ronald Li and his team are able to create stem cells that can then be turned into a miniature "clone" version of your heart that beats like yours and reacts to new drugs the way yours would. The process takes six months.
+
+Media playback is unsupported on your device Media caption Breakthroughs take time to sell
+
+Prof Li believes the tech could speed up the flow of vital new medicines because potential side-effects could be spotted before reaching the expensive human trial stage.
+
+"Drug development is a notoriously lengthy, expensive and inefficient process, typically costing $2-$3bn and taking more than 10 years to develop a single drug, with unacceptably high failure rates of 90% or worse," he says.
+
+"The significant business risk has resulted in depletion of the pipeline of new drugs under experimental development."
+
+Stem cell-derived, bio-artificial cloned organs built from the patient's own blood could eventually be the future of transplant medicine, says Prof Li.
+
+"Stem cell-derived tissues and organs are not just science fiction any more."
+
+Image copyright Novoheart Image caption Could lab-grown organs help speed up drug development?
+
+As well as creating "hearts in a jar", biotech companies are also "printing" living tissue using specialised 3D printers. This tissue can be used to produce skin for grafts, or cartilage for joints, for example.
+
+Methods of bioprinting differ but the underlying principle involves using genetic material or "bio inks" the way a normal printer uses ordinary ink, along with a "scaffolding" material to join the genetic material together to form specific shapes.
+
+One bioprinting specialist, Aspect Biosystems, recently formed a partnership with Johnson & Johnson to develop 3D-printed knee meniscus tissue - the thin, fibrous cartilage between some of your joints.
+
+"In the next 10 to 15 years, I believe we will see the first truly cell-containing bioprinted 3D tissues that are approved for use as implantable tissue therapeutics," says Tamer Mohamed, chief executive at Aspect Biosystems.
+
+Image copyright BEMOVED Media Image caption Tamer Mohamed (right) thinks bioprinted tissue will be used for transplants in the future
+
+As well as cartilage and organs, the synthetic additions to our bodies could one day include "nanobots" - tiny programmable bio-machines patrolling our blood streams looking for cancer cells and bacteria to kill, just as our white blood cells do.
+
+Arizona State University (ASU) scientists, in collaboration with researchers from the National Centre for Nanoscience and Technology at the Chinese Academy of Sciences recently programmed nanobots to shrink tumours by cutting off their blood supply.
+
+Unlike machine robots made of mechanical parts, these nanobots were designed using "DNA origami", a technique involving DNA being folded into shapes. Each one was made from a flat, rectangular DNA origami sheet, 90 nanometres by 60 nanometres - a nanometre is a billionth of a metre - and a blood-clotting enzyme, called thrombin, was attached to their surface.
+
+In the first such test on mammals of its kind, the team injected cancer cells into a mouse to create a tumour, then injected the nanobots.
+
+Image copyright ASU Biodesign Institute Image caption The polymer sheets are rolled up and carry their chemical payload to the cancer
+
+They started working within hours, blocking the tumour's blood supply and shrinking it after a two-week course of treatment.
+
+Hao Yan, director of the ASU Biodesign Institute's Centre for Molecular Design and Biomimetics, says the next step will be to perform a human trial, which should be in the next three-to-five years.
+
+"This result represents only the beginning stages of nano-medicine," he says, "and we are particularly excited because this technology is a strategy that can be used for many types of cancer, since all solid tumour-feeding blood vessels are essentially the same."
+
+Synthetics are also being marshalled in the fight against antimicrobial resistance - when antibiotics become ineffective against new strains of "superbug".
+
+These superbugs kill around 700,000 people a year worldwide, says the UK Review on Antimicrobial Resistance. By 2050, 10 million people could die each year if existing antibiotics continue to lose their effectiveness, the report suggests.
+
+Step forward "ninja polymers" - synthetic bacteria killers.
+
+Image copyright IBM Research Image caption The synthetic "ninja" polymers attack superbugs and stop them multiplying
+
+Scientists at IBM Research Almaden in California, working with Singapore's Institute of Bioengineering and Nanotechnology of the Agency for Science, have developed a synthetic molecule polymer designed to kill five deadly types of multidrug-resistant bacteria.
+
+The polymer works by binding itself to the infectious material, making its way inside the outer membrane, then turning the liquid inside the bacteria into solid material.
+
+Crucially, this happens so fast that the bacteria don't have time to reproduce and pass on any resistance.
+
+The team tested the polymers on mice infected with five hard-to-treat multi-drug resistant bacteria - the results showed that the bacteria were destroyed.
+
+One of the men leading the research, Dr James Hedrick, says the team is also developing the tech for use in cancer therapy, with hopefully far fewer side effects.
+
+"In each case, the therapeutics are highly selective to their target without detectable side reactions," he says.
+
+More Technology of Business
+
+Image copyright Getty Images
+
+"Moreover, each of these macromolecular therapies are designed to decompose into innocuous by-products that are easily expelled from the body."
+
+Dr Bertalan Mesko, director of The Medical Futurist Institute, says medicine has been lagging behind in the technology stakes for far too long.
+
+"While many industries stepped into the 21st Century, healthcare hasn't. Millions of patients are on transplantation waiting lists; clinical trials that put new drugs on the market sometimes take a decade and cost billions of dollars."
+
+These advances in synthetics promise the targeting and customisation of treatments to an individual's genetic and molecular background, says Dr Mesko.
+
+"Companies developing digital health technologies not only bring healthcare to the 21st Century but also make patients the point-of-care."

@@ -1,0 +1,43 @@
+Image copyright Getty Images Image caption A total of 1.5 billion users who had previously been under the jurisdiction of Facebook Ireland will have that moved to US headquarters
+
+Facebook has changed its terms of service, meaning 1.5 billion members will not be protected under tough new privacy protections coming to Europe.
+
+The move comes as the firm faces a series of questions from lawmakers and regulators around the world over its handling of personal data.
+
+The change revolves around which users will be regulated via its European headquarters in Ireland.
+
+Facebook said it planned clearer privacy rules worldwide.
+
+The move, reported by Reuters, will see Facebook users outside the EU governed by Facebook Inc in the US rather than Facebook Ireland.
+
+It is widely seen as a way of the social network avoiding having to apply the upcoming General Data Protection Regulation (GDPR) to countries outside the EU.
+
+Image copyright Getty Images Image caption Technology firms are rushing to ensure they are GDPR-compliant ahead of May deadline
+
+The change will affect more than 70% of its more than two billion members. As of December, Facebook had 239 million users in the US and Canada and 370 million in Europe.
+
+It also had 1.5 billion members in Africa, Asia, Australia and Latin America, and they are the ones affected by the change.
+
+Users in the US and Canada have never been subject to European rules.
+
+"The GDPR and EU consumer law set out specific rules for terms and data policies which we have incorporated for EU users. We have been clear that we are offering everyone who uses Facebook the same privacy protections, controls and settings, no matter where they live," said Stephen Deadman, deputy chief global privacy officer at Facebook.
+
+Sylvia Kingsmill, a digital privacy expert at consultancy KPMG, said such moves were "an easy way out" for tech firms.
+
+"I think that the public expectation is that their data, which they freely give up to corporate giants, is protected and I think this kind of move will catch up with the firms that make it."
+
+She added that regulators and lawmakers in the US and Canada were working on their own laws that would reflect the same controls offered by the "game-changing" GDPR.
+
+Positive step
+
+In 2008, Facebook set up its international headquarters in Ireland to take advantage of the country's low corporate tax rates but it also meant all users outside the US and Canada were protected by European regulations.
+
+The change will mean users outside Europe will no longer be able to file complaints with the Irish data protection commissioner or in the Irish courts.
+
+GDPR, due to come into force next month, offers EU consumers far greater control over their data. It also promises to fine firms found to have breached data rules up to 4% of their annual global revenue.
+
+Facebook has been under extremely close scrutiny following revelations that up to 87 million users may have had their data harvested by political marketing firm Cambridge Analytica without their consent.
+
+In his answers to Congress over Facebook's involvement in the scandal, Mark Zuckerberg said that GDPR was "going to be a very positive step for the internet".
+
+When asked whether the regulations should be applied in the US, he replied: "I think everyone in the world deserves good privacy protection."

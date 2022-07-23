@@ -1,0 +1,25 @@
+NEW YORK (Reuters) - JPMorgan Chase & Co (JPM.N) has tested a new blockchain platform for issuing financial instruments with the National Bank of Canada and other large firms, they said on Friday, seeking to streamline origination, settlement, interest rate payments and other processes.
+
+FILE PHOTO: A sign outside the headquarters of JP Morgan Chase & Co in New York, U.S., September 19, 2013. REUTERS/Mike Segar/File Photo
+
+The test on Wednesday mirrored the Canadian bank’s $150 million offering on the same day of a one-year floating-rate Yankee certificate of deposit, they said in a statement. The platform was built over more than a year using Quorum, a type of open-source blockchain that JPMorgan has developed inhouse and is in discussions to spin off.
+
+Participants in the experiment included Goldman Sachs Asset Management, the fund management arm of Goldman Sachs Group Inc (GS.N), Pfizer Inc (PFE.N) and Legg Mason Inc’s (LM.N) Western Asset and other investors in the certificate of deposit.
+
+Banks have poured millions of dollars to develop blockchain, the software first created to run cryptocurrency bitcoin, to streamline processes ranging from cross-border payments to securities settlement.
+
+“Blockchain-related technologies have the potential to bring about major change in the financial services industry,” David Furlong, senior vice president of artificial intelligence, venture capital and blockchain at National Bank of Canada, said in a statement.
+
+JPMorgan is considering spinning off Quorum because the technology has attracted significant outside interest, Umar Farooq, head of blockchain initiatives for JPMorgan’s corporate and investment bank said in an interview.
+
+He said it was taking too much time to field requests for help from users at other companies.
+
+Charging for assistance is not an option because software support is not the bank’s business, a person familiar with the matter said on condition of anonymity. The source was not authorized to discuss the matter publicly.
+
+The spin-off discussions are in the early stages and the bank has received interest from financial institutions and large enterprise technology companies, Farooq added. He declined to name the companies.
+
+JPMorgan plans to beef up the Quorum team with dozens of engineers from the bank’s other divisions who have become familiar with the technology, he said.
+
+Blockchain is in the early stages of development in the financial industry, but JPMorgan is optimistic about its potential, Farooq said.
+
+“We haven’t really seen a lot of really large scale things go into production yet. There are few cases where blockchain can really shine.”

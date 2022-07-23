@@ -1,0 +1,31 @@
+(This April 17 story has been corrected in the final paragraph to show Aviareto operates a registry that tracks financial interests in aircraft, not ICAO registry for manned aircraft)
+
+FILE PHOTO: An airplane flies over a drone during the Polar Bear Plunge on Coney Island in the Brooklyn borough of New York, U.S., January 1, 2015. REUTERS/Carlo Allegri/File Photo
+
+By Allison Lampert and Jamie Freed
+
+MONTREAL/SINGAPORE (Reuters) - The world’s airlines are backing the development of a United Nations-led global registry for drones, as a rise in near collisions by unmanned aircraft and commercial jets fuels safety concerns, an executive of their trade group said on Tuesday.
+
+The International Air Transport Association backs efforts by the United Nations’ aviation agency to develop such a registry, which could also help track the number of incidents involving drones and jets, said Rob Eagles, IATA’s director of air traffic management infrastructure.
+
+IATA would consider collaborating with the International Civil Aviation Organization (ICAO) to use the registry for data analysis to improve safety.
+
+ICAO is developing the registry as part of broader efforts to come up with common rules for flying and tracking unmanned aircraft.
+
+“One of the important things we would like to see on a registry as well is the compilation of data which would include incident and accident reporting,” Eagles said in an interview on the sidelines of IATA’s Safety and Flight Ops Conference in Montreal.
+
+Airlines and airport operators are looking to drone registries, geo-fencing technology and stiffer penalties for operating drones near airports. They hope these steps will ensure flying remains safe as hobbyists and companies like Amazon.com Inc use more drones.
+
+In Britain, the number of near misses between drones and aircraft more than tripled between 2015 and 2017, with 92 incidents recorded last year, according to the U.K. Airprox Board.
+
+Air New Zealand Ltd said last month a flight from Tokyo with 278 passengers and crew on board encountered a drone estimated to be just five meters away from the Boeing 777-200 jet during its descent into Auckland. A single registry would create a one-stop-shop that would allow law enforcement to remotely identify and track unmanned aircraft, along with their operator and owner.
+
+“The intention at present is to merge this activity into the ICAO registry for manned aircraft, so that the sector has a single consolidated registry network,” said ICAO spokesman Anthony Philbin by email.
+
+Barbara Dalibard, head of Switzerland-based aviation technology group SITA, said her company wanted to build a blockchain-based global drone registry and had been working with Geneva Airport on tests of a geo-fenced zone around the airport where drones listed in the registry would not be able to fly.
+
+“The data is connected to the airport system,” she said during an interview in Singapore on Tuesday.
+
+“The drone is approaching the airport and it says ‘No, go back’. If everything is connected you can ask the drone to change its flight plan or to readjust in order to get out of the danger zone,” she added.
+
+SITA also has a joint venture with the Irish government called Aviareto which operates a registry that tracks financial interests in certain aircraft.
