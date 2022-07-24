@@ -15,11 +15,11 @@ from sklearn.metrics import roc_auc_score
 
 class Model():
     def __init__(self):
-        # Chargement des données
+        # Load data
         self.training_data = pandas.read_csv('train_data.csv')
 
-    def ML(self):
-        #Extraction des mots et comptage
+    def Classifier(self):
+        # Counting vector
         count_vect = CountVectorizer(ngram_range=(1,3),stop_words=frozenset(stopwords.words('english')[0:-1]))
 
         stemmer = SnowballStemmer('english')
@@ -30,25 +30,17 @@ class Model():
 
         pickle.dump(count_vect.vocabulary_, open("count_vector.pkl", "wb"))
 
-        #Affectation des poids
+        # Weights assignement
         tfidf_transformer = TfidfTransformer()
         X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
         pickle.dump(tfidf_transformer, open("tfidf.pkl", "wb"))
 
-        #Apprentissage
+        # Training
         svm_classification = svm.LinearSVC(class_weight='balanced')#stagnation a partir de 10 iters
         X_train, X_test, y_train, y_test = train_test_split(X_train_tfidf, self.training_data.flag, test_size=0.20)
 
         svm_classification.fit(X_train_tfidf, self.training_data.flag)
         pickle.dump(svm_classification, open("svm.pkl", "wb"))
-
-
-        #clf = CalibratedClassifierCV(svm_classification)
-        #clf.fit(X_train_tfidf, self.training_data.flag)
-        #y_proba = svm_classification.predict(X_test)
-
-        #print('prediction=',y_proba[1])
-
         predicted = svm_classification.predict(X_test)
         result_svm = pandas.DataFrame( {'true_labels': y_test,'predicted_labels': predicted})
         result_svm.to_csv('res_svm.csv', sep = ',')

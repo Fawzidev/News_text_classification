@@ -1,12 +1,10 @@
 import glob
-
 import pandas
 
 class preprocessing():
 
     def preprocessing(self):
         self.count = {'sport': 0, 'world': 0, "us": 0, "business": 0, "health": 0, "entertainment": 0, "sci_tech": 0}
-
         with open('news.news', 'r') as f:
             text = f.read()
             news = text.split("\n\n")
@@ -18,7 +16,6 @@ class preprocessing():
                     count[lines[6]] = count[lines[6]] + 1
                     file_to_write.write(news_item)  # python will convert \n to os.linesep
                     file_to_write.close()
-
         print(self.count)
 
         self.category_list = ["sport", "world", "us", "business", "health", "entertainment", "sci_tech"]
